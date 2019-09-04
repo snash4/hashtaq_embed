@@ -1,13 +1,13 @@
 {
   "embeddings": [
     {
-      "tensorName": "My tensor",
+      "tensorName": "Hashtag tensor",
       "tensorShape": [
-        1000,
-        50
+        500,
+        64
       ],
-      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/snash4/hashtaq_embed/master/hashtag_all_d2v_50ep_500.emb",
+      "metadataPath": "https://raw.githubusercontent.com/snash4/hashtaq_embed/master/vocab_500.labels"
     }
   ]
 }
